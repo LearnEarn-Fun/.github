@@ -5,7 +5,9 @@
 
 <h3 align="center">Visit Our Website: https://www.learnearnfun.com</h3>
 
+<p align="center">
 <a href="https://www.youtube.com/channel/UCPK-CMPMf8juRuFyUVzwDsw?sub_confirmation=1"><img src="https://img.shields.io/static/v1?label=Learn%20Earn%20%20Fun&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge" /></a>
+  </p>
 
   
  # Connect with Us
