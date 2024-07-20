@@ -1,6 +1,5 @@
-<p align="center"><a href="https://learnearnfun.com/" target="_blank"><img src="https://raw.githubusercontent.com/LearnEarn-Fun/.github/master/profile/Untitled%20design%20(9).png"></a></p>
+<p align="center"><a href="https://learnearnfun.com/" target="_blank"><img src="https://raw.githubusercontent.com/LearnEarn-Fun/.github/master/profile/banner.png"></a></p>
 
-<p align="center"><a href="https://learnearnfun.com/" target="_blank"><img src="https://yt3.ggpht.com/a-/AAuE7mCEl9wTEQHSb8JrEvy4WIO2cBF1hV5zTeMF3Q=s900-mo-c-c0xffffffff-rj-k-no" width="10%"></a></p>
 
 <h1 align="center">Learn Earn & Fun</h1>
 <h3 align="center">E-Learning for Kids & Programmers</h3>
